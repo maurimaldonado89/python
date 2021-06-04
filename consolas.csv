@@ -1,0 +1,5 @@
+'Nombre':['Eduardo','Diego','Mauricio','Mario','Andrea','Julian'],
+           'Consola':['PC','Laptop','Xbox SeriesX','PC','PlayStation5','Xbox SeriesX'],
+           'Edad':['18','24','31','39','19','NAN'],
+           'Costo':['30,000','45,000','14,000','40,000','14,000','14,000'],
+           'Estado':['Aguascalientes','NAN','Nuevo Leon','NAN','Quintana Roo','Tamaulipas']
